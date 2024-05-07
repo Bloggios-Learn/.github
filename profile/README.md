@@ -13,6 +13,8 @@
 <img src="https://github.com/Bloggios-Open-Source/.github/blob/main/profile/bloggios_png.png" />
 </div>
 
+Who doesn't want motivation and support? Many Thanks to all the Stargazers who have supported this project with stars(⭐). You all are amazing!!!
+
 <h2>What is Bloggios</h2>
 Bloggios is an open-source web application designed to accelerate the learning process for Next.js on the client-side and Spring Boot Microservice on the server-side through a hands-on practice model. Developed by Rohit Parihar and Rakesh Shaw, Bloggios aims to redefine technical education by offering an immersive learning platform.
 
