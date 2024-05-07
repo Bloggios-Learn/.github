@@ -1,5 +1,5 @@
 <div align="center">
-<img src="bg-accent_rounded.png" height="100" />
+<img src="https://github.com/Bloggios-Open-Source/.github/blob/main/profile/bg-accent_rounded.png" height="100" />
 </div>
 
 <h1 align="center">Bloggios - Open Source</h1>
@@ -10,7 +10,7 @@
 
 <h2 align="center">Introducing Bloggios</h2>
 <div align="center">
-<img src="bloggios_png.png" />
+<img src="https://github.com/Bloggios-Open-Source/.github/blob/main/profile/bloggios_png.png" />
 </div>
 
 <h2>What is Bloggios</h2>
@@ -38,23 +38,29 @@ Bloggios is an open-source web application designed to accelerate the learning p
 - Curate diverse learning materials, including tutorials, documentation, and interactive exercises.
 - Cater to learners of all proficiency levels and learning preferences.
 
-## Getting Started
+## Software Needed
+
+### Frontend
+- [Node.js](https://nodejs.org/)
+- [Visual Studio Code](https://code.visualstudio.com/) (or any other IDE)
+- [Next.js](https://nextjs.org/)
+
+### Backend
+- Java 17
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) (or STS, Eclipse, Visual Studio Code)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Elasticsearch](https://www.elastic.co/elasticsearch/)
+- [Kafka](https://kafka.apache.org/) (if needed)
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) installed on your machine.
 - [Spring Boot](https://spring.io/projects/spring-boot) installed for server-side development.
 
-### Installation
-1. Clone the repository.
-2. Install dependencies for both the client-side (Next.js) and server-side (Spring Boot).
-3. Configure the application according to your environment.
-4. Run the application.
-
 ## Contributing
-We welcome contributions from the community! Please read our [Contribution Guidelines](CONTRIBUTING.md) before submitting pull requests.
+We welcome contributions from the community! Please read our [Contribution Guidelines](https://github.com/Bloggios-Open-Source/.github/blob/main/profile/CONTRIBUTING.md) before submitting pull requests.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License](LICENSE).
 
 ## Acknowledgments
 - Hat tip to anyone whose code was used.
