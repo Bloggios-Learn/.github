@@ -2,7 +2,7 @@
 <img src="https://github.com/Bloggios-Open-Source/.github/blob/main/profile/bg-accent_rounded.png" height="100" />
 </div>
 
-<h1 align="center">Bloggios - Open Source</h1>
+<h1 align="center">Bloggios</h1>
 
 <div align="center">
 <img src="https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square" />
@@ -10,7 +10,7 @@
 
 <h2 align="center">Introducing Bloggios</h2>
 <div align="center">
-<img src="https://github.com/Bloggios-Open-Source/.github/blob/main/profile/bloggios_png.png" />
+<img src="https://github.com/Bloggios-Open-Source/.github/blob/main/profile/bloggios-header.png" />
 </div>
 
 Who doesn't want motivation and support? Many Thanks to all the Stargazers who have supported this project with stars(⭐). You all are amazing!!!
